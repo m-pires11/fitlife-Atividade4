@@ -30,22 +30,44 @@ O objetivo do projeto é criar uma aplicação web funcional, responsiva e acess
 
 ## Estrutura de Pastas
 
----
 fitlife/
 ├── index.html
 ├── projetos.html
 ├── cadastro.html
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── js/
-│ │ └── script.js
-│ └── img/
-│ ├── forca.jpg
-│ ├── flexibilidade.jpg
-│ ├── yoga.jpg
-│ ├── pilates.jpg
-│ ├── cardio.jpg
-│ ├── circuito.jpg
-│ └── hiit.jpg
+└── assets/
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+└── img/
+├── forca.jpg
+├── flexibilidade.jpg
+├── yoga.jpg
+├── pilates.jpg
+├── cardio.jpg
+├── circuito.jpg
+└── hiit.jpg
+
+yaml
+Copiar código
+
 ---
+
+## Como Testar
+1. Abra o arquivo `index.html` no navegador localmente.  
+2. Navegue entre as páginas usando o menu.  
+3. Clique em “Começar Agora” para acessar o cadastro.  
+4. Preencha o formulário e veja a mensagem de sucesso.  
+
+> Projeto também hospedado online via GitHub Pages: [FitLife Online](https://m-pires11.github.io/fitlife-Atividade4/)
+
+---
+
+## Autor
+- **Matheus Pires**  
+- GitHub: [https://github.com/m-pires11](https://github.com/m-pires11)
+
+---
+
+## Status do Projeto
+✅ Concluído e funcional
