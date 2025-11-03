@@ -30,3 +30,22 @@ O objetivo do projeto é criar uma aplicação web funcional, responsiva e acess
 
 ## Estrutura de Pastas
 
+---
+fitlife/
+├── index.html
+├── projetos.html
+├── cadastro.html
+├── assets/
+│ ├── css/
+│ │ └── style.css
+│ ├── js/
+│ │ └── script.js
+│ └── img/
+│ ├── forca.jpg
+│ ├── flexibilidade.jpg
+│ ├── yoga.jpg
+│ ├── pilates.jpg
+│ ├── cardio.jpg
+│ ├── circuito.jpg
+│ └── hiit.jpg
+---
